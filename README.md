@@ -1,4 +1,6 @@
-Hi there 👋  
+Hi fellow Earth Dwellers 👽🌍
+Welcome to my digital galaxy of data, code, and intelligent machines 👋  
+
 I'm **Rima Modak**, a Data Analytics Engineer with experience building intelligent, cloud-native, GenAI-powered data systems across telecom, insurance, and financial domains. I blend data engineering, machine learning, and Generative AI to build impactful analytics and automation solutions using tools like Databricks, Azure, Hugging Face, and LangChain.
 
 🎯 I'm currently open to discussions and opportunities in Data Engineering, ML Engineering, and GenAI Systems roles — especially where LLMs, RAG pipelines, or real-time data architectures are core to the role.
