@@ -12,22 +12,44 @@ Feel free to connect or reach out:
 
 👩‍💼 **Experiences**
 
-**Data Analytics Engineer**  
-Agile DataPro | Campbell, CA (Jan 2024 – Present)  
-• Designed and deployed GenAI-powered NLP pipelines using LangChain, RAG, Hugging Face, and Azure Databricks.  
-• Built real-time streaming analytics with Event Hubs and PySpark, enforcing Unity Catalog governance and delivering insights via Power BI.  
-• Automated MLOps workflows using Airflow, ADF, and containerized models with Kubernetes and Docker.  
+**AI/ML Engineer**  
+Sycomp | Foster City, CA (Onsite) | Feb 2024 – Present
+Project: AI-Powered Customer Experience Insights Platform
+• Built scalable real-time ETL pipelines using Kafka, StreamSets, and AWS Glue to ingest unstructured financial data into Amazon S3 and Snowflake.
+• Orchestrated PySpark data models in Databricks, optimized for Snowflake with dbt and clustering/partitioning techniques.
+• Applied text classification, sentiment analysis, and LLM-driven RAG architecture using LangChain + Amazon Bedrock + HuggingFace-BART.
+• Integrated MLflow, Jenkins, GitHub Actions, and Airflow into a full MLOps pipeline for model training, deployment, and monitoring.
+• Developed LLM fallback logic and anomaly detection with GenAI agents; ensured data lineage with Collibra.
 
-**Data Analytics Engineer**  
-Synergistic IT | Fremont, CA (Aug 2022 – Dec 2023)  
-• Engineered scalable ELT pipelines and real-time student analytics using Azure ML, Databricks, and Event Hubs.  
-• Led multi-agent GenAI projects (Autogen, CrewAI) and embedded GPT-4/Claude models for retrieval and automation.  
-• Delivered Power BI dashboards enriched with LLM-powered natural language narratives.  
+**AI/ML Engineer**  
+(Client: Corcentric via SynergisticIT) | Cherry Hill, NJ (Remote) | Jun 2023 – Jan 2024
+Project: Predictive Analytics Engine for Dynamic Discounting
+• Engineered XGBoost, LSTM, SARIMAX models to forecast invoice delays and optimize discount rates.
+• Built NLP pipelines for vendor sentiment analysis using spaCy, Word2Vec, and invoice parsing via Gensim.
+• Automated model retraining and deployment using SageMaker, Lambda, ECS, and ECR, with CI/CD through GitHub Actions.
+• Executed Spark SQL joins, Dockerized models, and monitored model drift via CloudWatch.
 
-**Software Engineer / Data Analytics Engineer**  
-Ericsson | Gurgaon, India (Jan 2020 – Aug 2022)  
-• Developed predictive analytics and anomaly detection on telecom data using Spark, AWS SageMaker, and TensorFlow.  
-• Built REST APIs, automated CI/CD with Jenkins and Terraform, and led an IoT energy optimization project using GCP and BigQuery.  
+**AI/ML Power BI Developer**  
+Meta Dynamic (via SynergisticIT) | Orange, CA (Remote) | Nov 2022 – May 2023
+Project: Healthcare Analytics Dashboard
+• Built end-to-end Power BI dashboards and data models for healthcare KPIs.
+• Integrated AWS S3 + Lambda pipelines, applied DAX, Power Query, and explored GenAI POCs (RAG + LangChain) for insights via natural language queries.
+• Deployed CV-based document analytics with OpenCV and optimized refresh schedules.
+
+**Data Scientist**  
+Ericsson | Bangalore, India | Jan 2020 – Aug 2022
+Project: Project Aurora (Network Performance Analytics)
+• Built predictive ML models (LSTM, CNN, XGBoost) for anomaly detection and traffic forecasting on Azure Databricks.
+• Developed NLP pipelines for network logs using NLTK, spaCy, Gensim.
+• Containerized pipelines with Docker + AKS, automated data orchestration with ADF + MLflow, and integrated KPIs into Power BI.
+• Delivered 40% pipeline performance boost via PySpark optimization and Delta Lake tuning.
+
+** Associate Data Scientist/ML Engineer**  
+Navsoft | Mumbai, India | May 2017 – Mar 2019
+Project: Retail Analytics & Optimization Platform
+• Built sales forecasting models (ARIMA, Holt-Winters), optimized inventory levels, and automated pricing strategies.
+• Designed data pipelines using Azure Event Hubs + Python, and managed CI/CD with Jenkins.
+• Achieved 15–20% boost in forecast accuracy and 10–15% reduction in stockouts.
 
 ---
 
